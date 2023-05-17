@@ -14,5 +14,5 @@ The repository includes the following files:
 2. Wassa_2023_Shared_Task_EMO_Training.ipynb: This file contains the code related to the training of the model.
 
 ## Other Resources
-1. https://huggingface.co/adityapatkar/WASSA_EMO contains the pre-trained final model.
+1. https://huggingface.co/adityapatkar/WASSA_EMO contains the pre-trained final model. (Currently a private repo, will be made public in due course)
 2. https://codalab.lisn.upsaclay.fr/competitions/11167#learn_the_details-datasets contains the datasets used for this task.
